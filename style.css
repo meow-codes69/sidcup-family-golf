@@ -246,7 +246,7 @@ video {
     width: 24%;
     /* flex: 1 1 100%; */
     /* max-width: 100%; */
-    /* box-sizing: border-box; */
+    box-sizing: border-box;
     border-radius: 5%;
     background-size: cover;
     background-position: center;
