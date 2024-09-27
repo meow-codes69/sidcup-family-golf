@@ -251,7 +251,7 @@ video {
     background-size: cover;
     background-position: center;
     position: relative;
-    /* overflow: visible; */
+    overflow: auto;
     z-index: 10;
 }
 
